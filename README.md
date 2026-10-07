@@ -1,31 +1,15 @@
-# 🚀 Latihan Pemrograman C++ Dasar
+# 🚀 Perjalanan Belajar C++ Dasar
 
-Repository ini berisi kumpulan program sederhana yang dibuat untuk mendokumentasikan proses belajar logika pemrograman dan bahasa C++.
+Repositori ini berisi dokumentasi latihan mandiri saya dalam mempelajari konsep dasar pemrograman C++ dan logika alur komputer sebagai mahasiswi Sistem Informasi.
 
----
+## 📌 Topik yang Dipelajari
+- **Aritmatika Dasar**: Latihan membuat perhitungan sederhana (`kalkulator_umur.cpp`, `persegi_panjang.cpp`).
+- **Percabangan (`if` & `if-else`)**: Memahami kondisi tunggal dan ganda (`nilai.cpp`, `angka.cpp`).
 
-## 🛠️ Prasyarat & Lingkungan Pengembangan
+## 💡 Metode Belajar
+Meminta studi kasus sederhana dari AI, kemudian menyusun dan menulis logika sintaks C++ secara mandiri. Meskipun penulisan kode saya masih terus berproses dan dirapikan, saya fokus memahami logika alur programnya secara langsung.
 
-- **Compiler:** `g++` (GCC)
-- **Editor:** Visual Studio Code
-- **Standar Kode:** `snake_case` untuk nama file, `camelCase` untuk variabel, dan inisialisasi variabel proaktif.
-
----
-
-## 📁 Daftar Program
-
-### 1. Kalkulator Umur Interaktif (`kalkulator_umur.cpp`)
-Menghitung usia pengguna berdasarkan tahun lahir dan tahun saat ini.
-- **Konsep:** Input/Output (`cin`, `cout`), Operasi Aritmatika, Validasi Usia.
-
-### 2. Hitung Luas & Keliling Persegi Panjang (`persegi_panjang.cpp`)
-Menghitung luas dan keliling persegi panjang dengan format keluaran terminal yang rapi dan simetris.
-- **Konsep:** Variabel & Tipe Data (`int`), Formula Matematika.
-
----
-
-## 💻 Cara Menjalankan Program
-
-1. Clone repository ini:
+## 💻 Cara Menjalankan Kode
+1. Clone repositori ini:
    ```bash
    git clone [https://github.com/niccaarif/latihan-cpp-dasar.git](https://github.com/niccaarif/latihan-cpp-dasar.git)
